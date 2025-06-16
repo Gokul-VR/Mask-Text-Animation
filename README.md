@@ -2,7 +2,6 @@
 
 A powerful, reusable React component that creates stunning masked text reveal animations using GSAP's SplitText plugin with ScrollTrigger support. Perfect for creating engaging text animations that trigger on scroll or load.
 
-![MaskText Animation Demo](https://via.placeholder.com/800x400/1e293b/ffffff?text=MaskText+Animation+Demo)
 
 ## ✨ Features
 
