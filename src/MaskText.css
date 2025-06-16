@@ -1,0 +1,12 @@
+.split-text-wrapper {
+    overflow: hidden;
+    height: 100%;
+  }
+  
+  .line {
+    display: block;
+    overflow: hidden;
+
+    line-height: 1.30;
+  }
+  
